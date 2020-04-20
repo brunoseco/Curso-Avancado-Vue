@@ -25,51 +25,53 @@ Principais chamadas que iremos utilizar
 - CRUD de usuários - /api/usuário
 - CRUD de relação entre usuários e suas empresas - /api/usuarioempresa
 
-    {
-    	"dataList": [ ],
-    	"data": null,
-    	"statusCode": 200,
-    		"summary": {
-    		"total": 0,
-    		"pageSize": 10,
-    		"data": null
-    	},
-    	"errors": null
-    }
+Modelo
+
+  	{
+  		"dataList": [ ],
+  		"data": null,
+  		"statusCode": 200,
+  			"summary": {
+  			"total": 0,
+  			"pageSize": 10,
+  			"data": null
+  		},
+  		"errors": null
+  	}
 
 ## Aulas
 - Seção 1: Iniciando o curso e conhecendo o projeto
-Aula 1: Introdução
-Aula 2: Vue.js, estrutura e padrão
-Aula 3: O projeto - Modelo do negócio
-Aula 4: Protótipo e estruturando o HTML
+- - Aula 1: Introdução
+- - Aula 2: Vue.js, estrutura e padrão
+- - Aula 3: O projeto - Modelo do negócio
+- - Aula 4: Protótipo e estruturando o HTML
 
 - Seção 2: Desenvolvimento
-Aula 5: Iniciando o projeto
-Aula 6: Configurando Bootstrap 4
-Aula 7: Outras bibliotecas para trabalharmos
-Aula 8: Criando a estrutura no Vue
-Aula 9: Organizando a navegação - Rotas
-Aula 10: Criando o primeiro cadastro - CRUD
-Aula 11: Cadastros avançados
+- - Aula 5: Iniciando o projeto
+- - Aula 6: Configurando Bootstrap 4
+- - Aula 7: Outras bibliotecas para trabalharmos
+- - Aula 8: Criando a estrutura no Vue
+- - Aula 9: Organizando a navegação - Rotas
+- - Aula 10: Criando o primeiro cadastro - CRUD
+- - Aula 11: Cadastros avançados
 
 - Seção 3: Componentes e outras bibliotecas
-Aula 12: Validação de formulário
-Aula 13: Eventos e popup de notificação
-Aula 14: Tela de carregamento
-Aula 15: Carregando campo de select via API
-Aula 16: Datepicker
-Aula 17: Reaproveitando código - Mixins
-Aula 18: Paginação das consultas
-Aula 19: Cache - LocalStorage e Cookie
+- - Aula 12: Validação de formulário
+- - Aula 13: Eventos e popup de notificação
+- - Aula 14: Tela de carregamento
+- - Aula 15: Carregando campo de select via API
+- - Aula 16: Datepicker
+- - Aula 17: Reaproveitando código - Mixins
+- - Aula 18: Paginação das consultas
+- - Aula 19: Cache - LocalStorage e Cookie
 
 - Seção 4: Acesso e permissionamento
-Aula 20: Criando o aplicativo no Firebase
-Aula 21: Implementando login e autorização
-Aula 22: Dados do usuário logado
-Aula 23: Modelo do sistema com multitenancy
-Aula 24: Permissionamento na aplicação
+- - Aula 20: Criando o aplicativo no Firebase
+- - Aula 21: Implementando login e autorização
+- - Aula 22: Dados do usuário logado
+- - Aula 23: Modelo do sistema com multitenancy
+- - Aula 24: Permissionamento na aplicação
 
 - Seção 5: Finalização
-Aula 25: Variáveis de ambiente e publicação
-Aula 26: Visão geral do projeto implementado
+- - Aula 25: Variáveis de ambiente e publicação
+- - Aula 26: Visão geral do projeto implementado
